@@ -1,0 +1,313 @@
+[17:37:20.7220968][INFO/main.cpp:153] Settings Loaded and logger initialized.
+[17:37:20.7224839][INFO/main.cpp:155] Yim's Menu Initializing
+[17:37:20.7224880][INFO/main.cpp:156] Git Info
+	Branch:	master
+	Hash:	c349c9fba23603961d8691b763b519df130bab9d
+	Date:	Sat Dec 14 04:33:33 2024
+[17:37:20.7227535][INFO/main.cpp:168] Windows 10 Pro Version 22H2 (OS Build 19045.3803)
+[17:37:20.7245887][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[17:37:20.7246752][INFO/main.cpp:176] Thread pool initialized.
+[17:37:20.7272081][INFO/batch.hpp:106] Found 'SR' GTA5.exe+0x16E9B7
+[17:37:20.7287061][INFO/batch.hpp:106] Found 'GL' GTA5.exe+0x6E3BDC
+[17:37:20.7304476][INFO/batch.hpp:106] Found 'GS' GTA5.exe+0x2C8DA0
+[17:37:20.7304928][INFO/batch.hpp:106] Found 'ISA' GTA5.exe+0xFA53
+[17:37:20.7319705][INFO/batch.hpp:106] Found 'SGL' GTA5.exe+0x6E3BD0
+[17:37:20.7336839][INFO/batch.hpp:106] Found 'PF' GTA5.exe+0x73FAA8
+[17:37:20.7386984][INFO/batch.hpp:106] Found 'FV' GTA5.exe+0x165405C
+[17:37:20.7437166][INFO/batch.hpp:106] Found 'NPM' GTA5.exe+0x10D61A8
+[17:37:20.7477608][INFO/batch.hpp:106] Found 'NH' GTA5.exe+0x1657275
+[17:37:20.7481069][INFO/batch.hpp:106] Found 'SP' GTA5.exe+0xA577E1
+[17:37:20.7485141][INFO/batch.hpp:106] Found 'NRF' GTA5.exe+0x3D655
+[17:37:20.7540200][INFO/batch.hpp:106] Found 'S' GTA5.exe+0x13BE199
+[17:37:20.7551542][INFO/batch.hpp:106] Found 'GTS' GTA5.exe+0x1656CE4
+[17:37:20.7572868][INFO/batch.hpp:106] Found 'SG' GTA5.exe+0x1656B1C
+[17:37:20.7574712][INFO/batch.hpp:106] Found 'OQ' GTA5.exe+0x5746A6
+[17:37:20.7581540][INFO/batch.hpp:106] Found 'CGSHM' GTA5.exe+0x165BC4D
+[17:37:20.7583284][INFO/batch.hpp:106] Found 'TSE' GTA5.exe+0xDB2B08
+[17:37:20.7608110][INFO/batch.hpp:106] Found 'ST' GTA5.exe+0x16571CB
+[17:37:20.7633499][INFO/batch.hpp:106] Found 'RBWD' GTA5.exe+0x11801F1
+[17:37:20.7639820][INFO/batch.hpp:106] Found 'TK' GTA5.exe+0xA5B898
+[17:37:20.7649363][INFO/batch.hpp:106] Found 'RBB' GTA5.exe+0x67ACC8
+[17:37:20.7651353][INFO/batch.hpp:106] Found 'WBD' GTA5.exe+0x67B5F8
+[17:37:20.7665496][INFO/batch.hpp:106] Found 'RBA' GTA5.exe+0x135DF5C
+[17:37:20.7683068][INFO/batch.hpp:106] Found 'WBQ' GTA5.exe+0x1365D08
+[17:37:20.7747017][INFO/batch.hpp:106] Found 'RBS' GTA5.exe+0x135E35C
+[17:37:20.7809505][INFO/batch.hpp:106] Found 'WBI64' GTA5.exe+0x1160EA1
+[17:37:20.7865223][INFO/batch.hpp:106] Found 'WBI32' GTA5.exe+0x115FCE7
+[17:37:20.7875711][INFO/batch.hpp:106] Found 'WBB' GTA5.exe+0x115F7E8
+[17:37:20.7876981][INFO/batch.hpp:106] Found 'SEA' GTA5.exe+0x1716A39
+[17:37:20.7898380][INFO/batch.hpp:106] Found 'RC' GTA5.exe+0x1498A38
+[17:37:20.7940634][INFO/batch.hpp:106] Found 'GSH' GTA5.exe+0x165CBB0
+[17:37:20.7945958][INFO/batch.hpp:106] Found 'CNOM' GTA5.exe+0xB46004
+[17:37:20.7950249][INFO/batch.hpp:106] Found 'NPMI' GTA5.exe+0x11BE30F
+[17:37:20.7981411][INFO/batch.hpp:106] Found 'REH' GTA5.exe+0x1712BC0
+[17:37:20.7984848][INFO/batch.hpp:106] Found 'PTH' GTA5.exe+0x165B709
+[17:37:20.7999295][INFO/batch.hpp:106] Found 'GPR' GTA5.exe+0x117C764
+[17:37:20.8035982][INFO/batch.hpp:106] Found 'GSCFWC' GTA5.exe+0xA56884
+[17:37:20.8057882][INFO/batch.hpp:106] Found 'RNM' GTA5.exe+0x142F251
+[17:37:20.8058741][INFO/batch.hpp:106] Found 'API' GTA5.exe+0x1719148
+[17:37:20.8088086][INFO/batch.hpp:106] Found 'RCS/GSTFT/GNOFP/GNO/GSTI' GTA5.exe+0x11C9BC4
+[17:37:20.8096608][INFO/batch.hpp:106] Found 'GNED' GTA5.exe+0x1A6EE20
+[17:37:20.8128405][INFO/batch.hpp:106] Found 'GGCC' GTA5.exe+0xA8C0B6
+[17:37:20.8129395][INFO/batch.hpp:106] Found 'CAD' GTA5.exe+0x11C94C6
+[17:37:20.8129725][INFO/batch.hpp:106] Found 'MHT' GTA5.exe+0xBD8E
+[17:37:20.8175698][INFO/batch.hpp:106] Found 'GLT' GTA5.exe+0x16B74F
+[17:37:20.8181181][INFO/batch.hpp:106] Found 'NPMS' GTA5.exe+0x11F3896
+[17:37:20.8202289][INFO/batch.hpp:106] Found 'N' GTA5.exe+0x444FB9
+[17:37:20.8215036][INFO/batch.hpp:106] Found 'RCC' GTA5.exe+0x11C8C28
+[17:37:20.8227727][INFO/batch.hpp:106] Found 'RBIST' GTA5.exe+0x11C8DA8
+[17:37:20.8284760][INFO/batch.hpp:106] Found 'FDGD' GTA5.exe+0x13509F3
+[17:37:20.8295056][INFO/batch.hpp:106] Found 'GMI' GTA5.exe+0x16A9C5E
+[17:37:20.8301115][INFO/batch.hpp:106] Found 'FR' GTA5.exe+0xD07C44
+[17:37:20.8306475][INFO/batch.hpp:106] Found 'FPFD' GTA5.exe+0x134D5C0
+[17:37:20.8311086][INFO/batch.hpp:106] Found 'SCP' GTA5.exe+0x2F7AA0
+[17:37:20.8351255][INFO/batch.hpp:106] Found 'GGOS' GTA5.exe+0x1498950
+[17:37:20.8351388][INFO/batch.hpp:106] Found 'SGSBGH' GTA5.exe+0x447944
+[17:37:20.8374998][INFO/batch.hpp:106] Found 'UST' GTA5.exe+0x17001F0
+[17:37:20.8386067][INFO/batch.hpp:106] Found 'FPU&FPCA&FPOA&FPM' GTA5.exe+0x81187E
+[17:37:20.8426800][INFO/batch.hpp:106] Found 'FPFC' GTA5.exe+0x134D356
+[17:37:20.8427890][INFO/batch.hpp:106] Found 'JSBI' GTA5.exe+0x11344AB
+[17:37:20.8433248][INFO/batch.hpp:106] Found 'SMFS' GTA5.exe+0xA7F325
+[17:37:20.8518516][INFO/batch.hpp:106] Found 'IPBGH' GTA5.exe+0x444FD4
+[17:37:20.8540446][INFO/batch.hpp:106] Found 'WBA' GTA5.exe+0x16FC1C2
+[17:37:20.8563881][INFO/batch.hpp:106] Found 'VM' GTA5.exe+0x1656B26
+[17:37:20.8599129][INFO/batch.hpp:106] Found 'SCM' GTA5.exe+0x10E8B45
+[17:37:20.8662746][INFO/batch.hpp:106] Found 'RENC' GTA5.exe+0x145A63C
+[17:37:20.8668138][INFO/batch.hpp:106] Found 'AFBGH' GTA5.exe+0x1093AB0
+[17:37:20.8683407][INFO/batch.hpp:106] Found 'GU' GTA5.exe+0x14C82EE
+[17:37:20.8695718][INFO/batch.hpp:106] Found 'HJR' GTA5.exe+0x113ADA8
+[17:37:20.8701307][INFO/batch.hpp:106] Found 'PI' GTA5.exe+0x143F500
+[17:37:20.8727000][INFO/batch.hpp:106] Found 'HT' GTA5.exe+0x1499719
+[17:37:20.8736179][INFO/batch.hpp:106] Found 'SPBGH' GTA5.exe+0x44645E
+[17:37:20.8764838][INFO/batch.hpp:106] Found 'C' GTA5.exe+0xD09EC8
+[17:37:20.8775953][INFO/batch.hpp:106] Found 'WJRD' GTA5.exe+0x113BDCA
+[17:37:20.8792191][INFO/batch.hpp:106] Found 'PMFR' GTA5.exe+0x14B204C
+[17:37:20.8840909][INFO/batch.hpp:106] Found 'SJRM2' GTA5.exe+0x1116EFA
+[17:37:20.8850505][INFO/batch.hpp:106] Found 'SGS' GTA5.exe+0x11522E4
+[17:37:20.8866080][INFO/batch.hpp:106] Found 'QP' GTA5.exe+0x145442E
+[17:37:20.8866236][INFO/batch.hpp:106] Found 'SND' GTA5.exe+0xF83687
+[17:37:20.8872157][INFO/batch.hpp:106] Found 'SJRM' GTA5.exe+0x12C8F79
+[17:37:20.8921365][INFO/batch.hpp:106] Found 'RR' GTA5.exe+0xC392A7
+[17:37:20.8933930][INFO/batch.hpp:106] Found 'SRGC' GTA5.exe+0x123CB7A
+[17:37:20.8943538][INFO/batch.hpp:106] Found 'PIGI' GTA5.exe+0x10E29CF
+[17:37:20.8951161][INFO/batch.hpp:106] Found 'STOPVT' GTA5.exe+0x6ABA74
+[17:37:20.8970490][INFO/batch.hpp:106] Found 'CD' GTA5.exe+0x192877
+[17:37:20.8975451][INFO/batch.hpp:106] Found 'HRGC' GTA5.exe+0x123586F
+[17:37:20.8992533][INFO/batch.hpp:106] Found 'SPT' GTA5.exe+0xBA75AC
+[17:37:20.8998004][INFO/batch.hpp:106] Found 'RC' GTA5.exe+0xFB47DC
+[17:37:20.9005982][INFO/batch.hpp:106] Found 'GCP' GTA5.exe+0x1436414
+[17:37:20.9053442][INFO/batch.hpp:106] Found 'IDC' GTA5.exe+0x687E08
+[17:37:20.9070938][INFO/batch.hpp:106] Found 'TAC' GTA5.exe+0xB14390
+[17:37:20.9112444][INFO/batch.hpp:106] Found 'DPI' GTA5.exe+0x1434710
+[17:37:20.9113069][INFO/batch.hpp:106] Found 'ESI' GTA5.exe+0x11B3FE6
+[17:37:20.9137051][INFO/batch.hpp:106] Found 'LCF' GTA5.exe+0x5E6254
+[17:37:20.9137902][INFO/batch.hpp:106] Found 'BNA' GTA5.exe+0x17234FC
+[17:37:20.9150147][INFO/batch.hpp:106] Found 'MFO' GTA5.exe+0xA84D9B
+[17:37:20.9156537][INFO/batch.hpp:106] Found 'PGI' GTA5.exe+0x14B706C
+[17:37:20.9161080][INFO/batch.hpp:106] Found 'SAACF' GTA5.exe+0xAA0A3C
+[17:37:20.9179821][INFO/batch.hpp:106] Found 'TPO' GTA5.exe+0xBE34F2
+[17:37:20.9189112][INFO/batch.hpp:106] Found 'SJD' GTA5.exe+0xAA059C
+[17:37:20.9222245][INFO/batch.hpp:106] Found 'PMFS' GTA5.exe+0x1494594
+[17:37:20.9228621][INFO/batch.hpp:106] Found 'DSI' GTA5.exe+0x14A8E2C
+[17:37:20.9259176][INFO/batch.hpp:106] Found 'CTP' GTA5.exe+0x1443A78
+[17:37:20.9260511][INFO/batch.hpp:106] Found 'SP' GTA5.exe+0x1451DE4
+[17:37:20.9261174][INFO/batch.hpp:106] Found 'QD' GTA5.exe+0x133B0A0
+[17:37:20.9266579][INFO/batch.hpp:106] Found 'SCI' GTA5.exe+0x14821A7
+[17:37:20.9273252][INFO/batch.hpp:106] Found 'NT' GTA5.exe+0xCF9A2E
+[17:37:20.9290490][INFO/batch.hpp:106] Found 'ICF' GTA5.exe+0xACBDCF
+[17:37:20.9303445][INFO/batch.hpp:106] Found 'GEAT' GTA5.exe+0xA9F448
+[17:37:20.9314952][INFO/batch.hpp:106] Found 'RAU' GTA5.exe+0x1713E84
+[17:37:20.9335762][INFO/batch.hpp:106] Found 'SPCS' GTA5.exe+0x1167A3C
+[17:37:20.9343562][INFO/batch.hpp:106] Found 'SS' GTA5.exe+0x10996A8
+[17:37:20.9351301][INFO/batch.hpp:106] Found 'RPI' GTA5.exe+0x6C2B34
+[17:37:20.9364042][INFO/batch.hpp:106] Found 'CPTN' GTA5.exe+0xD8538C
+[17:37:20.9373183][INFO/batch.hpp:106] Found 'FPC2' GTA5.exe+0x14DCC73
+[17:37:20.9382962][INFO/batch.hpp:106] Found 'EAD' GTA5.exe+0x1235B5C
+[17:37:20.9383508][INFO/batch.hpp:106] Found 'HSR' GTA5.exe+0x1458880
+[17:37:20.9397155][INFO/batch.hpp:106] Found 'GVOV' GTA5.exe+0x2EA550
+[17:37:20.9403765][INFO/batch.hpp:106] Found 'WVPMDN' GTA5.exe+0x11B95D8
+[17:37:20.9409980][INFO/batch.hpp:106] Found 'PRP' GTA5.exe+0x11A863
+[17:37:20.9413601][INFO/batch.hpp:106] Found 'SNT' GTA5.exe+0x145CF2D
+[17:37:20.9415006][INFO/batch.hpp:106] Found 'MO' GTA5.exe+0x117C460
+[17:37:20.9424116][INFO/batch.hpp:106] Found 'PEP' GTA5.exe+0x9C7BA3
+[17:37:20.9448894][INFO/batch.hpp:106] Found 'VEP' GTA5.exe+0xD880CD
+[17:37:20.9454069][INFO/batch.hpp:106] Found 'HCM' GTA5.exe+0x2D8A90
+[17:37:20.9454390][INFO/batch.hpp:106] Found 'TJC' GTA5.exe+0xB1E9C8
+[17:37:20.9454958][INFO/batch.hpp:106] Found 'DSCC' GTA5.exe+0x1236D41
+[17:37:20.9456024][INFO/batch.hpp:106] Found 'AWIV' GTA5.exe+0xF33327
+[17:37:20.9475532][INFO/batch.hpp:106] Found 'FPCR' GTA5.exe+0x118408B
+[17:37:20.9476485][INFO/batch.hpp:106] Found 'L&UL' GTA5.exe+0x1A6AAA
+[17:37:20.9508227][INFO/batch.hpp:106] Found 'TFC' GTA5.exe+0xC3F0F9
+[17:37:20.9508392][INFO/batch.hpp:106] Found 'AMR&CMTFM' GTA5.exe+0x1426474
+[17:37:20.9516606][INFO/batch.hpp:106] Found 'RE' GTA5.exe+0x50CE1C
+[17:37:20.9516698][INFO/batch.hpp:106] Found 'RP' GTA5.exe+0x51A7E4
+[17:37:20.9518507][INFO/batch.hpp:106] Found 'GHAHBI' GTA5.exe+0x165CC84
+[17:37:20.9527673][INFO/batch.hpp:106] Found 'RE' GTA5.exe+0x516194
+[17:37:20.9528318][INFO/batch.hpp:106] Found 'RR' GTA5.exe+0x1F304
+[17:37:20.9556102][INFO/batch.hpp:106] Found 'RBS' GTA5.exe+0x135E60C
+[17:37:20.9589149][INFO/batch.hpp:106] Found 'RMFQ&RMFUR' GTA5.exe+0x144ECEA
+[17:37:20.9589789][INFO/batch.hpp:106] Found 'RBS' GTA5.exe+0x11EFFE4
+[17:37:20.9619404][INFO/batch.hpp:106] Found 'DHM' GTA5.exe+0x80D733
+[17:37:20.9637451][INFO/batch.hpp:106] Found 'ASA' GTA5.exe+0x117B668
+[17:37:20.9639613][INFO/batch.hpp:106] Found 'RAI' GTA5.exe+0x12B89DA
+[17:37:20.9645535][INFO/batch.hpp:106] Found 'IPP' GTA5.exe+0x931BCE
+[17:37:20.9702841][INFO/batch.hpp:106] Found 'DP' GTA5.exe+0xD1B298
+[17:37:20.9703778][INFO/batch.hpp:106] Found 'TCA' GTA5.exe+0xF84782
+[17:37:20.9713623][INFO/batch.hpp:106] Found 'CDBE' GTA5.exe+0x1165B90
+[17:37:20.9739309][INFO/batch.hpp:106] Found 'SNPPD' GTA5.exe+0x1717BE6
+[17:37:20.9746882][INFO/batch.hpp:106] Found 'DO' GTA5.exe+0x75ECC4
+[17:37:20.9767950][INFO/batch.hpp:106] Found 'DV' GTA5.exe+0xDB4744
+[17:37:20.9789213][INFO/batch.hpp:106] Found 'NEM&CEQ&NEP&GNPI&QNE' GTA5.exe+0x117D7E7
+[17:37:20.9798251][INFO/batch.hpp:106] Found 'FRC' GTA5.exe+0x1436C5B
+[17:37:20.9802908][INFO/batch.hpp:106] Found 'CW' GTA5.exe+0x168DBB
+[17:37:20.9808181][INFO/batch.hpp:106] Found 'IMSV' GTA5.exe+0x11337D8
+[17:37:20.9822887][INFO/batch.hpp:106] Found 'BE' GTA5.exe+0xA81C74
+[17:37:20.9879878][INFO/batch.hpp:106] Found 'SWL' GTA5.exe+0x117B6E0
+[17:37:20.9891675][INFO/batch.hpp:106] Found 'BP' GTA5.exe+0x1723703
+[17:37:20.9907020][INFO/batch.hpp:106] Found 'PD' GTA5.exe+0x1481FD5
+[17:37:20.9958168][INFO/batch.hpp:106] Found 'DC' GTA5.exe+0x14EC9C7
+[17:37:20.9977615][INFO/batch.hpp:106] Found 'EP' GTA5.exe+0xA81D7D
+[17:37:21.0002048][INFO/batch.hpp:106] Found 'CTSHP' GTA5.exe+0xA554AE
+[17:37:21.0006566][INFO/batch.hpp:106] Found 'E0MB' GTA5.exe+0x320291
+[17:37:21.0093526][INFO/batch.hpp:106] Found 'WMSB' GTA5.exe+0xD1C3C4
+[17:37:21.0117923][INFO/batch.hpp:106] Found 'GTCE0MB' GTA5.exe+0x13575BC
+[17:37:21.0146509][INFO/batch.hpp:106] Found 'SVM2' GTA5.exe+0x1656172
+[17:37:21.0147018][INFO/batch.hpp:106] Found 'BLPLST' GTA5.exe+0x2C9C68
+[17:37:21.0187708][INFO/batch.hpp:106] Found 'SVM5&6' GTA5.exe+0x1656125
+[17:37:21.0191884][INFO/batch.hpp:106] Found 'FEE' GTA5.exe+0x1700475
+[17:37:21.0198973][INFO/batch.hpp:106] Found 'TCYCL' GTA5.exe+0xE746E4
+[17:37:21.0204414][INFO/batch.hpp:106] Found 'GS' GTA5.exe+0x2831E
+[17:37:21.0232806][INFO/batch.hpp:106] Found 'VEHMMGR' GTA5.exe+0xFF51CD
+[17:37:21.0272041][INFO/batch.hpp:106] Found 'ASAP' GTA5.exe+0x1177184
+[17:37:21.0304566][INFO/batch.hpp:106] Found 'SVM1' GTA5.exe+0x1656017
+[17:37:21.0305179][INFO/batch.hpp:106] Found 'GPS' GTA5.exe+0x847C1D
+[17:37:21.0307600][INFO/batch.hpp:106] Found 'CT' GTA5.exe+0x13391C8
+[17:37:21.0313764][INFO/batch.hpp:106] Found 'SVM3&4' GTA5.exe+0x1655FDE
+[17:37:21.0331552][INFO/batch.hpp:106] Found 'NS' GTA5.exe+0xABEF54
+[17:37:21.0332655][INFO/batch.hpp:106] Found 'RCR' GTA5.exe+0x11C988C
+[17:37:21.0345863][INFO/batch.hpp:106] Found 'CGD' GTA5.exe+0x1EAB81
+[17:37:21.0356601][INFO/batch.hpp:106] Found 'SLC' GTA5.exe+0x8502A2
+[17:37:21.0360864][INFO/batch.hpp:106] Found 'NHM' GTA5.exe+0x10E8E3E
+[17:37:21.0371832][INFO/batch.hpp:106] Found 'FI' GTA5.exe+0x3F4B9C
+[17:37:21.0376677][INFO/batch.hpp:106] Found 'CGDU' GTA5.exe+0x277E0E
+[17:37:21.0472897][INFO/batch.hpp:106] Found 'WND' GTA5.exe+0x1209DD8
+[17:37:21.0491196][INFO/batch.hpp:106] Found 'GSD' GTA5.exe+0x11B5FB0
+[17:37:21.0496135][INFO/batch.hpp:106] Found 'CSNTP' GTA5.exe+0x11C201A
+[17:37:21.0540559][INFO/batch.hpp:106] Found 'WN' GTA5.exe+0x1207301
+[17:37:21.0602058][INFO/batch.hpp:106] Found 'US' GTA5.exe+0x1484E09
+[17:37:21.0603857][INFO/batch.hpp:106] Found 'USA' GTA5.exe+0x14BFEFF
+[17:37:21.0669988][INFO/batch.hpp:106] Found 'ISCOA' GTA5.exe+0x13ECCAE
+[17:37:21.0674503][INFO/batch.hpp:106] Found 'SSDM' GTA5.exe+0x14A6422
+[17:37:21.0680393][INFO/batch.hpp:106] Found 'CCV' GTA5.exe+0xF2C8B4
+[17:37:21.0685809][INFO/batch.hpp:106] Found 'AS' GTA5.exe+0x14C0265
+[17:37:21.0700683][INFO/batch.hpp:106] Found 'SRP' GTA5.exe+0x113B6B9
+[17:37:21.0722632][INFO/batch.hpp:106] Found 'CWIM' GTA5.exe+0x105AE6A
+[17:37:21.0763991][INFO/batch.hpp:106] Found 'GDH' GTA5.exe+0xA81CC7
+[17:37:21.0772034][INFO/batch.hpp:106] Found 'SSF' GTA5.exe+0x1E8688
+[17:37:21.0814087][INFO/batch.hpp:106] Found 'GDLCH' GTA5.exe+0x113B0C5
+[17:37:21.0820123][INFO/batch.hpp:106] Found 'GPBSI' GTA5.exe+0x1434B57
+[17:37:21.0842047][INFO/batch.hpp:106] Found 'OIO' GTA5.exe+0x171FAAD
+[17:37:21.0847374][INFO/batch.hpp:106] Found 'BS' GTA5.exe+0x15E9B4
+[17:37:21.0850110][INFO/batch.hpp:106] Found 'CCG' GTA5.exe+0x136634C
+[17:37:21.0850402][INFO/batch.hpp:106] Found 'GL' GTA5.exe+0x2D8E24
+[17:37:21.0902469][INFO/batch.hpp:106] Found 'CPI' GTA5.exe+0x166229E
+[17:37:21.0908610][INFO/batch.hpp:106] Found 'CDD' GTA5.exe+0x6FBCD7
+[17:37:21.0913953][INFO/batch.hpp:106] Found 'RPS' GTA5.exe+0x112CDAC
+[17:37:21.0935922][INFO/batch.hpp:106] Found 'IPEW' GTA5.exe+0x716D31
+[17:37:21.0938485][INFO/batch.hpp:106] Found 'SHBD' GTA5.exe+0x118E3CD
+[17:37:21.0982757][INFO/batch.hpp:106] Found 'NCAM' GTA5.exe+0x109CA2C
+[17:37:21.0994292][INFO/batch.hpp:106] Found 'IME' GTA5.exe+0x13EA355
+[17:37:21.1045993][INFO/batch.hpp:106] Found 'GLKS' GTA5.exe+0x8004D8
+[17:37:21.1060293][INFO/batch.hpp:106] Found 'AGTS' GTA5.exe+0x1236B93
+[17:37:21.1095698][INFO/batch.hpp:106] Found 'DCLMGR' GTA5.exe+0xE45B08
+[17:37:21.1180302][INFO/batch.hpp:106] Found 'VA' GTA5.exe+0xF37D4F
+[17:37:21.1770285][INFO/batch.hpp:106] Found 'BENBP' GTA5.exe+0x33876D5
+[17:37:21.1770568][INFO/pointers.hpp:79] Pointers cache: saved 244 fields to the cache
+[17:37:21.1774088][DEBUG/module.cpp:55] Waiting for socialclub.dll...
+[17:37:21.1780439][INFO/batch.hpp:106] Found 'SGPA' GTA5.exe+0x1C3F90
+[17:37:21.1787391][INFO/batch.hpp:106] Found 'NHP' GTA5.exe+0x1DEFE9
+[17:37:21.1790404][INFO/batch.hpp:106] Found 'RAP' GTA5.exe+0x1E0578
+[17:37:21.1793697][INFO/batch.hpp:106] Found 'PD' GTA5.exe+0x11F88A
+[17:37:21.1806967][INFO/batch.hpp:106] Found 'RAP2' GTA5.exe+0x1E05EA
+[17:37:21.1807099][INFO/pointers.hpp:79] Pointers cache: saved 6 fields to the cache
+[17:37:21.1809399][INFO/main.cpp:179] Pointers initialized.
+[17:37:21.1809458][INFO/main.cpp:186] Disabled anticheat gameskeleton.
+[17:37:21.1861037][INFO/main.cpp:189] Byte Patch Manager initialized.
+[17:37:21.1878824][INFO/main.cpp:192] Renderer initialized.
+[17:37:21.1937210][INFO/main.cpp:196] Fiber pool initialized.
+[17:37:21.1940258][INFO/main.cpp:199] HTTP Client initialized.
+[17:37:21.4028632][INFO/translation_service.cpp:60] Downloading translations...
+[17:37:21.4028931][INFO/translation_service.cpp:169] Translations for 'en_US' does not exist, downloading from https://raw.githubusercontent.com/YimMenu/Translations/master
+[17:37:21.5843459][DEBUG/thread_pool.cpp:96] Thread 8776 executing font_mgr.cpp:37
+[17:37:21.5848766][INFO/main.cpp:202] Translation Service initialized.
+[17:37:21.5902372][INFO/main.cpp:205] Hooking initialized.
+[17:37:21.5925932][DEBUG/thread_pool.cpp:96] Thread 17100 executing player_database_service.cpp:315
+[17:37:21.5928917][INFO/main.cpp:226] Registered service instances...
+[17:37:21.5929051][INFO/main.cpp:229] Finished initialising services.
+[17:37:21.5929840][INFO/main.cpp:249] Scripts registered.
+[17:37:21.6331289][INFO/main.cpp:252] Hooking enabled.
+[17:37:21.6331718][INFO/main.cpp:255] Dynamic native hooker initialized.
+[17:37:21.6346076][INFO/main.cpp:259] Lua manager initialized.
+[17:38:21.7478557][DEBUG/thread_pool.cpp:96] Thread 17284 executing font_mgr.cpp:37
+[17:38:21.7524112][INFO/backend.cpp:68] Starting script: Self
+[17:38:21.7524246][INFO/backend.cpp:92] Starting script: Weapons
+[17:38:21.7524371][INFO/backend.cpp:115] Starting script: Vehicles
+[17:38:21.7524436][INFO/backend.cpp:131] Starting script: Miscellaneous
+[17:38:21.7524652][INFO/backend.cpp:155] Starting script: Remote
+[17:38:21.7524735][INFO/backend.cpp:170] Starting script: Rainbow Paint
+[17:38:21.7524776][INFO/backend.cpp:182] Starting script: Disable Control Action
+[17:38:21.7524801][INFO/backend.cpp:195] Starting script: World
+[17:38:21.8041841][INFO/gta_data_service.cpp:316] Rebuilding cache started...
+[17:38:21.8043019][DEBUG/yim_fipackfile.cpp:123] GTA install directory: C:\Program Files\Rockstar Games\Grand Theft Auto V
+[17:38:21.8148492][DEBUG/script_function.cpp:21] Found pattern GCNS at 0x70A0 in script MP_Weapons
+[17:38:21.8151577][DEBUG/script_function.cpp:21] Found pattern GCDS at 0x8882 in script MP_Weapons
+[17:38:21.8179257][DEBUG/script_function.cpp:21] Found pattern GWDS at 0xEB0B in script MP_Weapons
+[17:38:23.3850822][INFO/gta_data_service.cpp:622] Cache has been rebuilt.
+	Peds: 1076
+	Vehicles: 882
+	Weapons: 115
+	WeaponComponents: 452
+[17:38:23.3851023][DEBUG/gta_data_service.cpp:625] Starting cache saving procedure...
+[17:38:23.3857782][DEBUG/thread_pool.cpp:96] Thread 17284 executing gta_data_service.cpp:626
+[17:38:23.3898227][INFO/gta_data_service.cpp:682] Finished writing cache to disk.
+[17:38:23.3898296][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[17:38:23.3898306][INFO/gta_data_service.cpp:172] Loading 1076 peds from cache.
+[17:38:23.3900996][INFO/gta_data_service.cpp:194] Loading 882 vehicles from cache.
+[17:38:23.3903583][INFO/gta_data_service.cpp:215] Loading 115 weapons from cache.
+[17:38:23.3903610][INFO/gta_data_service.cpp:216] Loading 452 weapon components from cache.
+[17:38:23.3903632][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[17:38:23.4318008][INFO/tunables_service.cpp:97] Saving 34876 tunables to cache
+[17:38:23.4441369][INFO/tunables_service.cpp:36] Loading tunables from cache
+[17:38:34.8619736][INFO/main.cpp:271] Scripts unregistered.
+[17:38:34.8619852][INFO/main.cpp:274] Lua manager uninitialized.
+[17:38:34.8998236][INFO/main.cpp:277] Hooking disabled.
+[17:38:34.8999206][INFO/main.cpp:280] Dynamic native hooker uninitialized.
+[17:38:34.8999282][DEBUG/thread_pool.cpp:109] Thread 17284 exiting...
+[17:38:34.8999298][DEBUG/thread_pool.cpp:109] Thread 17100 exiting...
+[17:38:34.8999712][DEBUG/thread_pool.cpp:109] Thread 8776 exiting...
+[17:38:34.8999721][DEBUG/thread_pool.cpp:109] Thread 16332 exiting...
+[17:38:34.9067795][INFO/main.cpp:285] Destroyed thread pool.
+[17:38:34.9067908][INFO/main.cpp:288] Script Connection Service reset.
+[17:38:34.9108038][INFO/main.cpp:290] Tunables Service reset.
+[17:38:34.9108170][INFO/main.cpp:292] Hotkey Service reset.
+[17:38:34.9108210][INFO/main.cpp:294] Matchmaking Service reset.
+[17:38:34.9155548][INFO/main.cpp:296] Player Database Service reset.
+[17:38:34.9155617][INFO/main.cpp:298] API Service reset.
+[17:38:34.9160471][INFO/main.cpp:300] Script Patcher Service reset.
+[17:38:34.9160596][INFO/main.cpp:302] Gui Service reset.
+[17:38:34.9160623][INFO/main.cpp:304] Vehicle Service reset.
+[17:38:34.9160635][INFO/main.cpp:306] Model Preview Service reset.
+[17:38:34.9160651][INFO/main.cpp:308] Mobile Service reset.
+[17:38:34.9160670][INFO/main.cpp:310] Player Service reset.
+[17:38:34.9160682][INFO/main.cpp:312] Pickup Service reset.
+[17:38:34.9160709][INFO/main.cpp:314] Custom Text Service reset.
+[17:38:34.9160759][INFO/main.cpp:316] Context Service reset.
+[17:38:34.9160780][INFO/main.cpp:318] Xml Vehicles Service reset.
+[17:38:34.9160788][INFO/main.cpp:319] Services uninitialized.
+[17:38:34.9161036][INFO/main.cpp:322] Hooking uninitialized.
+[17:38:34.9161079][INFO/main.cpp:325] Fiber pool uninitialized.
+[17:38:34.9167648][INFO/main.cpp:328] Renderer uninitialized.
+[17:38:34.9237711][INFO/main.cpp:331] Byte Patch Manager uninitialized.
+[17:38:34.9237852][INFO/main.cpp:334] Pointers uninitialized.
+[17:38:34.9237894][INFO/main.cpp:337] Thread pool uninitialized.
+[17:38:34.9237904][INFO/main.cpp:339] Farewell!

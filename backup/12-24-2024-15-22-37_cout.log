@@ -1,0 +1,67 @@
+[14:08:44.8486720][INFO/main.cpp:153] Settings Loaded and logger initialized.
+[14:08:44.8492071][INFO/main.cpp:155] Yim's Menu Initializing
+[14:08:44.8492104][INFO/main.cpp:156] Git Info
+	Branch:	master
+	Hash:	c349c9fba23603961d8691b763b519df130bab9d
+	Date:	Sat Dec 14 04:33:33 2024
+[14:08:44.8492799][INFO/main.cpp:168] Windows 10 Pro Version 22H2 (OS Build 19045.3803)
+[14:08:44.8518193][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[14:08:44.8519652][INFO/main.cpp:176] Thread pool initialized.
+[14:08:44.8527775][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[14:08:44.8529203][INFO/pointers.cpp:2052] Loading pointers instance from cache
+[14:08:44.8529246][INFO/pointers.cpp:2061] Pointers cache: Loading 244 fields from the cache
+[14:08:44.8529357][DEBUG/module.cpp:55] Waiting for socialclub.dll...
+[14:08:44.8531116][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[14:08:44.8531152][INFO/pointers.cpp:2052] Loading pointers instance from cache
+[14:08:44.8531167][INFO/pointers.cpp:2061] Pointers cache: Loading 6 fields from the cache
+[14:08:44.8531357][INFO/main.cpp:179] Pointers initialized.
+[14:08:44.8531404][INFO/main.cpp:186] Disabled anticheat gameskeleton.
+[14:08:44.8593422][INFO/main.cpp:189] Byte Patch Manager initialized.
+[14:08:44.8614126][INFO/main.cpp:192] Renderer initialized.
+[14:08:44.8690826][INFO/main.cpp:196] Fiber pool initialized.
+[14:08:44.8696737][INFO/main.cpp:199] HTTP Client initialized.
+[14:08:45.1278942][DEBUG/thread_pool.cpp:96] Thread 14096 executing font_mgr.cpp:37
+[14:08:45.1282930][INFO/main.cpp:202] Translation Service initialized.
+[14:08:45.1318593][INFO/main.cpp:205] Hooking initialized.
+[14:08:45.1369084][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[14:08:45.1369150][INFO/gta_data_service.cpp:172] Loading 1076 peds from cache.
+[14:08:45.1374088][INFO/gta_data_service.cpp:194] Loading 882 vehicles from cache.
+[14:08:45.1376650][INFO/gta_data_service.cpp:215] Loading 115 weapons from cache.
+[14:08:45.1376678][INFO/gta_data_service.cpp:216] Loading 452 weapon components from cache.
+[14:08:45.1376694][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[14:08:45.1396070][DEBUG/thread_pool.cpp:96] Thread 11636 executing player_database_service.cpp:315
+[14:08:45.1398829][INFO/main.cpp:226] Registered service instances...
+[14:08:45.1398923][INFO/main.cpp:229] Finished initialising services.
+[14:08:45.1399493][INFO/main.cpp:249] Scripts registered.
+[14:08:45.1706147][INFO/main.cpp:252] Hooking enabled.
+[14:08:45.1725350][INFO/main.cpp:255] Dynamic native hooker initialized.
+[14:08:45.1730364][INFO/main.cpp:259] Lua manager initialized.
+[14:08:47.5226927][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x31BB64
+[14:08:47.6453407][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x679EC0
+[14:08:47.6453579][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x679EE8
+[14:08:47.6455499][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x3384EC
+[14:08:47.6455584][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x3384C4
+[14:08:47.6455657][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x404BCC
+[14:08:47.6617552][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x45E7E4
+[14:08:47.6620407][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x45DA28
+[14:08:48.5437312][INFO/backend.cpp:68] Starting script: Self
+[14:08:48.5437440][INFO/backend.cpp:92] Starting script: Weapons
+[14:08:48.5437539][INFO/backend.cpp:115] Starting script: Vehicles
+[14:08:48.5437595][INFO/backend.cpp:131] Starting script: Miscellaneous
+[14:08:48.5437808][INFO/backend.cpp:155] Starting script: Remote
+[14:08:48.5437894][INFO/backend.cpp:170] Starting script: Rainbow Paint
+[14:08:48.5437918][INFO/backend.cpp:182] Starting script: Disable Control Action
+[14:08:48.5437937][INFO/backend.cpp:195] Starting script: World
+[14:08:48.5589057][INFO/tunables_service.cpp:36] Loading tunables from cache
+[14:09:08.6115325][WARN/prepare_metric_for_sending.cpp:103] BAD METRIC: MM; DATA: "mmList":"4175726F72612E646C6C00|6F6E64656D616E64636F6E6E726F75746568656C7065722E646C6C00|44504150492E444C4C00|736368616E6E656C2E444C4C00|6D736B657970726F746563742E646C6C00|6E637279707473736C702E646C6C00|"
+[14:09:12.2592547][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[14:09:41.3676447][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x96DEB4
+[14:09:41.3676722][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0xA729B4
+[14:09:52.3610552][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x5CEC2C
+[14:09:52.3730813][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x679F10
+[14:09:52.3731036][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x679E98
+[14:11:28.6624800][WARN/reaction.cpp:57] Received GTA_BANNER from R100lls (166078331)
+[14:12:22.8792376][net_messages][DEBUG/receive_net_message.cpp:383] Luka171008 sent us a MsgKickPlayer, reason = 7
+[14:12:22.9729862][DEBUG/script_function.cpp:21] Found pattern RSD at 0x41BB in script main_persistent
+[14:12:28.0013291][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[14:22:37.7948668][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9

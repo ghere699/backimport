@@ -1,0 +1,83 @@
+[17:42:11.3544466][INFO/main.cpp:153] Settings Loaded and logger initialized.
+[17:42:11.3544733][INFO/main.cpp:155] Yim's Menu Initializing
+[17:42:11.3544771][INFO/main.cpp:156] Git Info
+	Branch:	master
+	Hash:	c349c9fba23603961d8691b763b519df130bab9d
+	Date:	Sat Dec 14 04:33:33 2024
+[17:42:11.3545443][INFO/main.cpp:168] Windows 10 Pro Version 22H2 (OS Build 19045.3803)
+[17:42:11.3565426][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[17:42:11.3566360][INFO/main.cpp:176] Thread pool initialized.
+[17:42:11.3568533][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[17:42:11.3568619][INFO/pointers.cpp:2052] Loading pointers instance from cache
+[17:42:11.3568646][INFO/pointers.cpp:2061] Pointers cache: Loading 244 fields from the cache
+[17:42:11.3568724][DEBUG/module.cpp:55] Waiting for socialclub.dll...
+[17:42:11.3569330][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[17:42:11.3569356][INFO/pointers.cpp:2052] Loading pointers instance from cache
+[17:42:11.3569372][INFO/pointers.cpp:2061] Pointers cache: Loading 6 fields from the cache
+[17:42:11.3569542][INFO/main.cpp:179] Pointers initialized.
+[17:42:11.3569588][INFO/main.cpp:186] Disabled anticheat gameskeleton.
+[17:42:11.3621911][INFO/main.cpp:189] Byte Patch Manager initialized.
+[17:42:11.3624234][INFO/main.cpp:192] Renderer initialized.
+[17:42:11.3701162][INFO/main.cpp:196] Fiber pool initialized.
+[17:42:11.3705565][INFO/main.cpp:199] HTTP Client initialized.
+[17:42:11.4476756][DEBUG/thread_pool.cpp:96] Thread 4492 executing font_mgr.cpp:37
+[17:42:11.4481824][INFO/main.cpp:202] Translation Service initialized.
+[17:42:11.4527420][INFO/main.cpp:205] Hooking initialized.
+[17:42:11.4571127][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[17:42:11.4571195][INFO/gta_data_service.cpp:172] Loading 1076 peds from cache.
+[17:42:11.4574426][INFO/gta_data_service.cpp:194] Loading 882 vehicles from cache.
+[17:42:11.4577589][INFO/gta_data_service.cpp:215] Loading 115 weapons from cache.
+[17:42:11.4577614][INFO/gta_data_service.cpp:216] Loading 452 weapon components from cache.
+[17:42:11.4577629][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[17:42:11.4580619][DEBUG/thread_pool.cpp:96] Thread 15412 executing player_database_service.cpp:315
+[17:42:11.4581795][INFO/main.cpp:226] Registered service instances...
+[17:42:11.4581885][INFO/main.cpp:229] Finished initialising services.
+[17:42:11.4582757][INFO/main.cpp:249] Scripts registered.
+[17:42:11.4990194][INFO/main.cpp:252] Hooking enabled.
+[17:42:11.5001796][INFO/main.cpp:255] Dynamic native hooker initialized.
+[17:42:11.5003688][INFO/main.cpp:259] Lua manager initialized.
+[17:42:15.1817486][INFO/backend.cpp:68] Starting script: Self
+[17:42:15.1817573][INFO/backend.cpp:92] Starting script: Weapons
+[17:42:15.1817644][INFO/backend.cpp:115] Starting script: Vehicles
+[17:42:15.1817685][INFO/backend.cpp:131] Starting script: Miscellaneous
+[17:42:15.1817902][INFO/backend.cpp:155] Starting script: Remote
+[17:42:15.1817969][INFO/backend.cpp:170] Starting script: Rainbow Paint
+[17:42:15.1817990][INFO/backend.cpp:182] Starting script: Disable Control Action
+[17:42:15.1818010][INFO/backend.cpp:195] Starting script: World
+[17:42:15.1861822][INFO/tunables_service.cpp:36] Loading tunables from cache
+[17:42:39.2252764][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x679EC0
+[17:42:39.2252953][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x679EE8
+[17:42:39.2253096][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x31BB64
+[17:42:39.2268737][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x3384EC
+[17:42:39.2268929][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x3384C4
+[17:42:39.2269054][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x404BCC
+[17:42:39.2284641][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x45E7E4
+[17:42:39.2287613][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x45DA28
+[17:42:39.2287690][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x5CEC2C
+[17:43:18.2399550][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x96DEB4
+[17:43:18.2399853][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0xA729B4
+[17:43:30.3303412][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[17:47:18.1306398][net_sync][WARN/received_clone_create.cpp:71] Frula2704 sent us an object create request with an object ID that is in our usable object ID list. Somebody lied to us...
+[17:56:38.2005780][net_sync][WARN/received_clone_create.cpp:71] TTK9xx sent us an object create request with an object ID that is in our usable object ID list. Somebody lied to us...
+[17:56:53.0993439][WARN/matchmaking_service.cpp:226] big::matchmaking_service::handle_advertise::<lambda_1>::()::<lambda_1>::operator (): created a multiplexed session advertisement, but the primary advertisement no longer exists
+[17:56:56.1376849][WARN/reaction.cpp:57] Received REMOTE_RAGDOLL from BearoYT (222065374)
+[17:56:56.4164058][WARN/reaction.cpp:57] Received REMOTE_RAGDOLL from BearoYT (222065374)
+[17:56:56.6050773][WARN/matchmaking_service.cpp:226] big::matchmaking_service::handle_advertise::<lambda_1>::()::<lambda_1>::operator (): created a multiplexed session advertisement, but the primary advertisement no longer exists
+[17:56:57.1418234][WARN/matchmaking_service.cpp:226] big::matchmaking_service::handle_advertise::<lambda_1>::()::<lambda_1>::operator (): created a multiplexed session advertisement, but the primary advertisement no longer exists
+[17:56:57.7076603][WARN/matchmaking_service.cpp:226] big::matchmaking_service::handle_advertise::<lambda_1>::()::<lambda_1>::operator (): created a multiplexed session advertisement, but the primary advertisement no longer exists
+[17:58:21.7951646][WARN/prepare_metric_for_sending.cpp:103] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 222065374","b":3561133533,"c":401263359,"d":[-848.51,-1238.66,7.88],"e":[-882.95,-1191.89,4.73],"f":1441606459389265172,"g":-1032301585654875976,"h":991407252,"i":775971358,"et":94015148,"es":1459623836,"ep":2281960,"ec":true,"n":1649,"op":[-882.2
+[17:58:21.7951931][WARN/prepare_metric_for_sending.cpp:103] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 222065374","b":3561133533,"c":401263359,"d":[-848.51,-1238.66,7.88],"e":[-882.95,-1191.89,4.73],"f":1441606459389265172,"g":-1032301585654875976,"h":991407252,"i":775971358,"et":94015149,"es":1459623836,"ep":2281960,"ec":true,"n":2253,"op":[-882.2
+[17:59:52.9541229][WARN/matchmaking_service.cpp:226] big::matchmaking_service::handle_advertise::<lambda_1>::()::<lambda_1>::operator (): created a multiplexed session advertisement, but the primary advertisement no longer exists
+[17:59:53.4770001][WARN/matchmaking_service.cpp:226] big::matchmaking_service::handle_advertise::<lambda_1>::()::<lambda_1>::operator (): created a multiplexed session advertisement, but the primary advertisement no longer exists
+[17:59:53.9546185][WARN/matchmaking_service.cpp:226] big::matchmaking_service::handle_advertise::<lambda_1>::()::<lambda_1>::operator (): created a multiplexed session advertisement, but the primary advertisement no longer exists
+[17:59:54.4543728][WARN/matchmaking_service.cpp:226] big::matchmaking_service::handle_advertise::<lambda_1>::()::<lambda_1>::operator (): created a multiplexed session advertisement, but the primary advertisement no longer exists
+[18:01:18.2020619][WARN/prepare_metric_for_sending.cpp:103] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 222065374","b":3561133533,"c":401263359,"d":[-336.63,-764.34,1588.16],"e":[-1009.60,-1362.76,5.55],"f":1441606459389265172,"g":-1032301585654875976,"h":1104331669,"i":991407252,"et":94015149,"es":1459623836,"ep":2281960,"ec":true,"n":2253,"op":[-8
+[18:01:51.7101048][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[18:05:28.6301157][net_messages][DEBUG/receive_net_message.cpp:383] Marijoana86 sent us a MsgKickPlayer, reason = 7
+[18:13:26.1241573][INFO/settings.cpp:69] Updating settings.
+[18:14:08.9785800][WARN/matchmaking_service.cpp:322] big::matchmaking_service::handle_session_detail_send_response: sending fail code 3
+[18:17:40.8605488][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[18:22:22.9032891][DEBUG/script_function.cpp:21] Found pattern RSD at 0x41BB in script main_persistent
+[18:22:27.8419729][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[18:25:45.1802956][net_messages][DEBUG/receive_net_message.cpp:383] davoamazo sent us a MsgKickPlayer, reason = 7
+[18:25:50.2331865][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9

@@ -1,0 +1,80 @@
+[21:59:23.2082514][INFO/main.cpp:153] Settings Loaded and logger initialized.
+[21:59:23.2082781][INFO/main.cpp:155] Yim's Menu Initializing
+[21:59:23.2082803][INFO/main.cpp:156] Git Info
+	Branch:	master
+	Hash:	c349c9fba23603961d8691b763b519df130bab9d
+	Date:	Sat Dec 14 04:33:33 2024
+[21:59:23.2083450][INFO/main.cpp:168] Windows 10 Pro Version 22H2 (OS Build 19045.3803)
+[21:59:23.2105621][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[21:59:23.2106579][INFO/main.cpp:176] Thread pool initialized.
+[21:59:23.2108568][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[21:59:23.2108631][INFO/pointers.cpp:2052] Loading pointers instance from cache
+[21:59:23.2108661][INFO/pointers.cpp:2061] Pointers cache: Loading 244 fields from the cache
+[21:59:23.2108734][DEBUG/module.cpp:55] Waiting for socialclub.dll...
+[21:59:23.2109348][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[21:59:23.2109374][INFO/pointers.cpp:2052] Loading pointers instance from cache
+[21:59:23.2109390][INFO/pointers.cpp:2061] Pointers cache: Loading 6 fields from the cache
+[21:59:23.2109575][INFO/main.cpp:179] Pointers initialized.
+[21:59:23.2109615][INFO/main.cpp:186] Disabled anticheat gameskeleton.
+[21:59:23.2167411][INFO/main.cpp:189] Byte Patch Manager initialized.
+[21:59:23.2169541][INFO/main.cpp:192] Renderer initialized.
+[21:59:23.2227843][INFO/main.cpp:196] Fiber pool initialized.
+[21:59:23.2231008][INFO/main.cpp:199] HTTP Client initialized.
+[21:59:23.2892672][DEBUG/thread_pool.cpp:96] Thread 16856 executing font_mgr.cpp:37
+[21:59:23.2898812][INFO/main.cpp:202] Translation Service initialized.
+[21:59:23.2932817][INFO/main.cpp:205] Hooking initialized.
+[21:59:23.2969511][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[21:59:23.2969589][INFO/gta_data_service.cpp:172] Loading 1076 peds from cache.
+[21:59:23.2972522][INFO/gta_data_service.cpp:194] Loading 882 vehicles from cache.
+[21:59:23.2975654][INFO/gta_data_service.cpp:215] Loading 115 weapons from cache.
+[21:59:23.2975685][INFO/gta_data_service.cpp:216] Loading 452 weapon components from cache.
+[21:59:23.2975705][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[21:59:23.2978650][DEBUG/thread_pool.cpp:96] Thread 17164 executing player_database_service.cpp:315
+[21:59:23.2979591][INFO/main.cpp:226] Registered service instances...
+[21:59:23.2979677][INFO/main.cpp:229] Finished initialising services.
+[21:59:23.2980399][INFO/main.cpp:249] Scripts registered.
+[21:59:23.3443734][INFO/main.cpp:252] Hooking enabled.
+[21:59:23.3455457][INFO/main.cpp:255] Dynamic native hooker initialized.
+[21:59:23.3457210][INFO/main.cpp:259] Lua manager initialized.
+[21:59:25.5424442][INFO/backend.cpp:68] Starting script: Self
+[21:59:25.5424535][INFO/backend.cpp:92] Starting script: Weapons
+[21:59:25.5424631][INFO/backend.cpp:115] Starting script: Vehicles
+[21:59:25.5424683][INFO/backend.cpp:131] Starting script: Miscellaneous
+[21:59:25.5424891][INFO/backend.cpp:155] Starting script: Remote
+[21:59:25.5425010][INFO/backend.cpp:170] Starting script: Rainbow Paint
+[21:59:25.5425044][INFO/backend.cpp:182] Starting script: Disable Control Action
+[21:59:25.5425070][INFO/backend.cpp:195] Starting script: World
+[21:59:25.5472448][INFO/tunables_service.cpp:36] Loading tunables from cache
+[21:59:34.3065580][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x96DEB4
+[21:59:34.3065873][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0xA729B4
+[21:59:47.6512661][WARN/prepare_metric_for_sending.cpp:103] BAD METRIC: MM; DATA: "mmList":"4B45524E454C33322E444C4C00|4B45524E454C424153452E646C6C00|5553455233322E646C6C00|47444933322E646C6C00|676469333266756C6C2E646C6C00|6D737663705F77696E2E646C6C00|75637274626173652E646C6C00|50534150492E444C4C00|5753325F33322E646C6C00|5250435254342E
+[21:59:47.6514582][WARN/prepare_metric_for_sending.cpp:103] BAD METRIC: MM; DATA: "mmList":"6661737470726F782E646C6C00|616D73692E646C6C00|73657475706170692E646C6C00|6E7661706936342E646C6C00|63727970746E65742E646C6C00|64727673746F72652E646C6C00|44334431305F312E444C4C00|64336431305F31636F72652E646C6C00|696D616765686C702E646C6C00|70726F66
+[21:59:50.5886126][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[22:00:15.2881953][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x31BB64
+[22:00:15.2888704][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x45E7E4
+[22:00:15.2889260][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x45DA28
+[22:00:15.2889309][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x5CEC2C
+[22:00:15.2909718][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x679EC0
+[22:00:15.2909874][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x679EE8
+[22:00:15.2909999][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x679F10
+[22:00:15.2910048][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x679E98
+[22:00:15.2941794][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x3384EC
+[22:00:15.2941981][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x3384C4
+[22:00:15.2942313][INFO/queue_dependency.cpp:62] Blocking AC Verifier 0x404BCC
+[22:02:09.8510156][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[22:05:47.4317293][DEBUG/script_function.cpp:21] Found pattern RSD at 0x41BB in script main_persistent
+[22:05:52.7128184][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[22:09:37.8876684][net_messages][DEBUG/receive_net_message.cpp:383] polyakubik sent us a MsgKickPlayer, reason = 7
+[22:09:43.2975960][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[22:10:59.7595682][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[22:14:13.6691051][WARN/interloper_reaction.cpp:23] Received SPECTATE_OTHERS from sanecka355 (263906131), victim is Aytcher
+[22:14:29.9358455][WARN/interloper_reaction.cpp:23] Received SPECTATE_OTHERS from sanecka355 (263906131), victim is Aytcher
+[22:14:39.5158895][net_messages][DEBUG/receive_net_message.cpp:383] KvBs00n_ sent us a MsgKickPlayer, reason = 7
+[22:14:44.6491226][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[22:14:53.1937900][WARN/interloper_reaction.cpp:23] Received SPECTATE_OTHERS from sanecka355 (263906131), victim is Aytcher
+[22:17:14.6592493][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[22:17:18.5129418][WARN/reaction.cpp:57] Received MODDER_DETECTION from Sonario08 (180907291)
+[22:21:01.3581276][net_messages][DEBUG/receive_net_message.cpp:383] Walde0811 sent us a MsgKickPlayer, reason = 7
+[22:24:15.1471054][INFO/battleye_service.cpp:305] BattlEye: Our GUID: 93377e6dd830cc76a8e1d159113946e9
+[22:24:17.8232843][WARN/reaction.cpp:57] Received MODDER_DETECTION from SubSlid (66763018)
+[22:28:05.2343483][net_messages][DEBUG/receive_net_message.cpp:383] kristof3107 sent us a MsgKickPlayer, reason = 7
